@@ -11,8 +11,6 @@
 
 ;cdcl => the caller is clean the stack => add esp,x
 
-
-
 include 'include\win32a.inc'
 
 format PE console
